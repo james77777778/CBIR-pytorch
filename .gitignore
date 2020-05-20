@@ -1,0 +1,12 @@
+# vscode
+.vscode
+
+# venv
+venv
+__pycache__
+
+# dataset
+dataset
+
+# weights
+weights
